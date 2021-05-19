@@ -1,6 +1,5 @@
 # SimplePyCalculator
-Just a simple calculator in Python that can be ran through PyCharm
-Simple GUI made with PyQT5
+Just a simple calculator in Python that can be ran through PyCharm. The simple GUI is made with PyQT5.
 
 Known Bugs:
 
